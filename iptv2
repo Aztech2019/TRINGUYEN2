@@ -17,7 +17,8 @@ https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://i.imgur.com/CDdM2aJ.png",VTV4
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://i.imgur.com/W0cksu1.png",VTV5DP
-https://vtvgo-livewebs.vtvdigital.vn/1368776affe71d29886f8bfcfd464732/1635851104403/vtv5/index.m3u8
+#https://vtvgo-livewebs.vtvdigital.vn/1368776affe71d29886f8bfcfd464732/1635851104403/vtv5/index.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://i.imgur.com/W0cksu1.png",VTV5
 https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ
