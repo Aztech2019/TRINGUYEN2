@@ -29,8 +29,8 @@ https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 #https://vtvnews-livevtv.vtvdigital.vn/c833f10af3e28364a85138ff1a6aac9b/1628818318613/vtv5tn/vtv5tn@720p.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://i.imgur.com/A9x2lzO.png",VTV6DTPP
-#https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://i.imgur.com/A9x2lzO.png",VTV6
 https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VTV" tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://i.imgur.com/p655IPH.png",VTV7
